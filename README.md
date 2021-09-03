@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charalampos</h1>
-<p align="left"> <a href="https://twitter.com/cntatis" target="blank"><img src="https://img.shields.io/twitter/follow/cntatis?logo=twitter&style=for-the-badge" alt="cntatis" /></a> </p>
+<h3 align="center">Currently, I am doing my internship as a Quality Assurance Engineer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
