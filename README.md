@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Charalampos</h1>
-<h3 align="center">Currently, I am doing my internship as a Quality Assurance Engineer.</h3>
-
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
